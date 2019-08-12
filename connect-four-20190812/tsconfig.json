@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./out/",
+    "strict": true,
+    "target": "es6",
+    "types": [
+      "node",
+      "jest"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "lib"
+  ]
+}
