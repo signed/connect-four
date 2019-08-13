@@ -5,7 +5,8 @@
   "main": "src/index.ts",
   "private": true,
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "play": "ts-node src/play.ts"
   },
   "devDependencies": {
     "@types/jest": "24.0.15",
